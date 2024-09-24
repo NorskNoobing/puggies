@@ -4,7 +4,7 @@ Puggies is developed with Go, React and Docker. If you want to contribute to Pug
 will need the following tools installed on your computer:
 
 * [Git](https://git-scm.com/)
-* [Go](https://go.dev/)
+* [Go](https://go.dev/) (1.20+, only tested with 1.23.1)
 * [NodeJS LTS](https://nodejs.org/en/)
 * [Yarn](https://classic.yarnpkg.com/lang/en/)
 * [Docker](https://www.docker.com/)
