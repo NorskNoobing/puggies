@@ -15,7 +15,7 @@
 # You should have received a copy of the GNU Affero General Public License
 # along with Puggies. If not, see <https://www.gnu.org/licenses/>.
 
-FROM golang:alpine3.20 as backendBuilder
+FROM golang:alpine as backendBuilder
 WORKDIR /workspace
 
 # we will grab the SSL certs and timezone data so people
